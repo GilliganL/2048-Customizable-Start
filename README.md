@@ -7,7 +7,7 @@ A version of the game 2048 that allows you to choose your starting highest tile
 I am obsessed with this game. After being able to easily reach higher tiles I want to be able to start at a higher number instead of having to start over each time. 
 
 ### Technology
-* Vanilla JavaScript
+* Vanilla JavaScript or React
 * SASS
 * HTML5
 
